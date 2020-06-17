@@ -1,6 +1,6 @@
 # Direct Download Link Generator , Generates Direct links for Google drive and OneDrive
 
-![Pic1](https://i.imgur.com/iIAytEo.gif)
+https://i.imgur.com/iIAytEo.gif
 
 ## Installation
 
