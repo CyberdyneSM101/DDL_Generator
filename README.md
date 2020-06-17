@@ -33,5 +33,5 @@ For Generating OneDrive Direct Link:
 ```
 
 ## Contributing
-This Module Was Developed By Me , This Module was made by me to help Developers for fast Development
+This Module Was Developed By Cyberdyne
 
