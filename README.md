@@ -1,6 +1,7 @@
 # Direct Download Link Generator , Generates Direct links for Google drive and OneDrive
 
-![For Google Drive](https://i.imgur.com/iIAytEo.gif)
+For Generating GoogleDrive Direct Link:
+![Google_Drive_Link2](https://user-images.githubusercontent.com/48202123/84927355-ffd22300-b0cc-11ea-8254-6d7285e6c21c.gif)
 
 
 ## Installation
