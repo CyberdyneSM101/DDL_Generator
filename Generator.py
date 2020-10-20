@@ -1,6 +1,5 @@
 from colorama import init, Fore, Back, Style
 import random
-import Your_Font
 
 def Generate_GoogleDrive_Direct_link(x):
     Link = x.split("/file/d/")
@@ -33,7 +32,6 @@ def Help():
 
 
 def Main():
-    Your_Font.Your_Font()
     init(autoreset=True)
     print(Fore.GREEN+Banner())
     print(Fore.GREEN+"\n[*] For Uasge type: help")
